@@ -125,6 +125,38 @@ function App() {
             </article>
           </div>
         </section>
+
+        <section className="section analysis">
+          <div className="section-heading">
+            <span>06</span>
+            <div>
+              <h2>DATA ANALYSIS</h2>
+              <p>
+                Explore the data cleaning and exploratory analysis behind this
+                dashboard.
+              </p>
+            </div>
+          </div>
+
+          <div className="analysis-content">
+            <div>
+              <p className="analysis-description">
+                The dataset was cleaned and analyzed using Python and Pandas
+                before the results were transformed into data for this React
+                dashboard.
+              </p>
+            </div>
+
+            <a
+              href="https://github.com/yohanesivan20/airbnb-data-visualization/tree/main/data-analysis"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="analysis-link"
+            >
+              View Data Analysis on GitHub →
+            </a>
+          </div>
+        </section>
       </main>
 
       <Footer />
