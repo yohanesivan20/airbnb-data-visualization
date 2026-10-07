@@ -1,0 +1,288 @@
+{
+  "overview": {
+    "total_listings": 101796,
+    "average_price": 625.34,
+    "median_price": 624.0,
+    "neighbourhoods": 224
+  },
+  "price_distribution": [
+    {
+      "price": 50,
+      "count": 1990
+    },
+    {
+      "price": 73,
+      "count": 2038
+    },
+    {
+      "price": 96,
+      "count": 1999
+    },
+    {
+      "price": 119,
+      "count": 2057
+    },
+    {
+      "price": 142,
+      "count": 2080
+    },
+    {
+      "price": 165,
+      "count": 1932
+    },
+    {
+      "price": 188,
+      "count": 2107
+    },
+    {
+      "price": 211,
+      "count": 1969
+    },
+    {
+      "price": 234,
+      "count": 2050
+    },
+    {
+      "price": 257,
+      "count": 2024
+    },
+    {
+      "price": 280,
+      "count": 1979
+    },
+    {
+      "price": 303,
+      "count": 2086
+    },
+    {
+      "price": 326,
+      "count": 1912
+    },
+    {
+      "price": 349,
+      "count": 1894
+    },
+    {
+      "price": 372,
+      "count": 2004
+    },
+    {
+      "price": 395,
+      "count": 2199
+    },
+    {
+      "price": 418,
+      "count": 2047
+    },
+    {
+      "price": 441,
+      "count": 2061
+    },
+    {
+      "price": 464,
+      "count": 2108
+    },
+    {
+      "price": 487,
+      "count": 2062
+    },
+    {
+      "price": 510,
+      "count": 2137
+    },
+    {
+      "price": 533,
+      "count": 2017
+    },
+    {
+      "price": 556,
+      "count": 2016
+    },
+    {
+      "price": 579,
+      "count": 2075
+    },
+    {
+      "price": 602,
+      "count": 2056
+    },
+    {
+      "price": 625,
+      "count": 2170
+    },
+    {
+      "price": 648,
+      "count": 2054
+    },
+    {
+      "price": 671,
+      "count": 1947
+    },
+    {
+      "price": 694,
+      "count": 2065
+    },
+    {
+      "price": 717,
+      "count": 2078
+    },
+    {
+      "price": 740,
+      "count": 2069
+    },
+    {
+      "price": 763,
+      "count": 2007
+    },
+    {
+      "price": 786,
+      "count": 1950
+    },
+    {
+      "price": 809,
+      "count": 2009
+    },
+    {
+      "price": 832,
+      "count": 1946
+    },
+    {
+      "price": 855,
+      "count": 1915
+    },
+    {
+      "price": 878,
+      "count": 2082
+    },
+    {
+      "price": 901,
+      "count": 2060
+    },
+    {
+      "price": 924,
+      "count": 2042
+    },
+    {
+      "price": 947,
+      "count": 2039
+    },
+    {
+      "price": 970,
+      "count": 2035
+    },
+    {
+      "price": 993,
+      "count": 2045
+    },
+    {
+      "price": 1016,
+      "count": 2072
+    },
+    {
+      "price": 1039,
+      "count": 1996
+    },
+    {
+      "price": 1062,
+      "count": 2069
+    },
+    {
+      "price": 1085,
+      "count": 2027
+    },
+    {
+      "price": 1108,
+      "count": 2037
+    },
+    {
+      "price": 1131,
+      "count": 2075
+    },
+    {
+      "price": 1154,
+      "count": 2031
+    },
+    {
+      "price": 1177,
+      "count": 2077
+    }
+  ],
+  "room_type": [
+    {
+      "room type": "Hotel room",
+      "average_price": 666.39,
+      "median_price": 643.0,
+      "listings_count": 115
+    },
+    {
+      "room type": "Shared room",
+      "average_price": 634.83,
+      "median_price": 651.5,
+      "listings_count": 2208
+    },
+    {
+      "room type": "Entire home/apt",
+      "average_price": 625.24,
+      "median_price": 624.0,
+      "listings_count": 53429
+    },
+    {
+      "room type": "Private room",
+      "average_price": 624.94,
+      "median_price": 623.0,
+      "listings_count": 46306
+    }
+  ],
+  "neighbourhood": [
+    {
+      "neighbourhood": "Columbia St",
+      "average_price": 712.23,
+      "listings_count": 88
+    },
+    {
+      "neighbourhood": "Gravesend",
+      "average_price": 705.61,
+      "listings_count": 140
+    },
+    {
+      "neighbourhood": "Briarwood",
+      "average_price": 703.58,
+      "listings_count": 121
+    },
+    {
+      "neighbourhood": "Stapleton",
+      "average_price": 699.23,
+      "listings_count": 65
+    },
+    {
+      "neighbourhood": "Coney Island",
+      "average_price": 695.26,
+      "listings_count": 50
+    },
+    {
+      "neighbourhood": "Kew Gardens Hills",
+      "average_price": 690.39,
+      "listings_count": 66
+    },
+    {
+      "neighbourhood": "Cambria Heights",
+      "average_price": 686.49,
+      "listings_count": 78
+    },
+    {
+      "neighbourhood": "Throgs Neck",
+      "average_price": 684.7,
+      "listings_count": 56
+    },
+    {
+      "neighbourhood": "Stuyvesant Town",
+      "average_price": 680.92,
+      "listings_count": 83
+    },
+    {
+      "neighbourhood": "Highbridge",
+      "average_price": 676.03,
+      "listings_count": 67
+    }
+  ]
+}
